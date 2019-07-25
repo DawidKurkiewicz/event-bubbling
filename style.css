@@ -1,24 +1,26 @@
 html {
-    box-sizing: border-box;
-  }
-  
-  *, *:before, *:after { 
-    box-sizing: inherit; 
-  }
+  box-sizing: border-box;
+}
 
-  div {
-    width: 100%;
-    padding: 100px;
-  }
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
 
-  .one {
-    background: thistle;
-  }
+div {
+  width: 100%;
+  padding: 100px;
+}
 
-  .two {
-    background: mistyrose;
-  }
+.one {
+  background: thistle;
+}
 
-  .three {
-    background: coral;
-  }
+.two {
+  background: mistyrose;
+}
+
+.three {
+  background: coral;
+}
